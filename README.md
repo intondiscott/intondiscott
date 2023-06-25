@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: intondiscott@gmail.com | https://www.linkedin.com/in/scott-intondi-a49942226/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a bodybuilder who has broken the algorithm to gains 😅. I hope to break the algorithm of learning new programming concepts.
+- [![name](https://github.com/thecodebuzz/FileSizePOC/blob/master/TheCodebuzz.png =400x250)](https://thecodebuzz.com/how-to-add-image-to-excel-files-using-npoi/)
 
