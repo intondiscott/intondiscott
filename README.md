@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: intondiscott@gmail.com | https://www.linkedin.com/in/scott-intondi-a49942226/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a bodybuilder who has broken the algorithm to gains 😅. I hope to break the algorithm of learning new programming concepts.
-![image](https://github.com/intondiscott/intondiscott/assets/73749875/ab4530ab-82f4-44e7-bafa-3f4c1538252a)
+![image](https://github.com/intondiscott/intondiscott/assets/73749875/ab4530ab-82f4-44e7-bafa-3f4c1538252a = 800x600)
   
 
