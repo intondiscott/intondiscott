@@ -27,6 +27,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40" />&nbsp;
 </div>
+:fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
 <img src="https://github.com/intondiscott/intondiscott/assets/73749875/07f1eac9-8d9b-4e77-b1be-2fbd1faf34dc"/>
 
   
