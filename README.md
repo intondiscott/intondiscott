@@ -1,20 +1,11 @@
 ### Hi there my name is Scotty 👋
-<div>
-  
-</div>
 
-
-<!--
-**intondiscott/intondiscott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 - 🔭 I’m currently working on embedded systems
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with ideas
 - 💬 Ask me about anything
-- 📫 How to reach me: <img src="https://img.shields.io/badge/intondiscott@gmail.com-grey?style=for-the-badge&logo=gmail&logoColor=red" />  | <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+- 📫 How to reach me: <img src="https://img.shields.io/badge/intondiscott@gmail.com-grey?style=for-the-badge&logo=gmail&logoColor=red" />  | <a href="https://www.linkedin.com/in/scott-intondi-a49942226/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a bodybuilder who has broken the algorithm to gains 😅. I hope to break the algorithm of learning new programming concepts.
 - :hammer_and_wrench: Languages and Tools :
@@ -31,9 +22,12 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40" />&nbsp;
 </div>
-![image](https://github.com/intondiscott/intondiscott/assets/73749875/07f1eac9-8d9b-4e77-b1be-2fbd1faf34dc)
+<img src="https://github.com/intondiscott/intondiscott/assets/73749875/07f1eac9-8d9b-4e77-b1be-2fbd1faf34dc"/>
 
   
 
