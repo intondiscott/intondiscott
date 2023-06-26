@@ -1,4 +1,4 @@
-### Hi there my name is Scotty 👋
+### Hi there, my name is Scotty 👋
 
 - 🔭 I’m currently working on embedded systems
 - 🌱 I’m currently learning Rust
