@@ -30,7 +30,8 @@
 ---
 ### :fire: My Stats : <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=intondiscott&theme=chartreuse-dark)](https://git.io/streak-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intondiscott&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intondiscott&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
+![Scotty's GitHub stats](https://github-readme-stats.vercel.app/api?username=intondiscott&show_icons=true&theme=radical)
 <img src="https://github.com/intondiscott/intondiscott/assets/73749875/07f1eac9-8d9b-4e77-b1be-2fbd1faf34dc"/>
 
   
