@@ -1,7 +1,7 @@
 ### Hi there, my name is Scotty 👋
 
-- 🔭 I’m currently working on embedded systems
-- 🌱 I’m currently learning Rust
+- 🔭 I’m currently working on microservices
+- 🌱 I’m currently learning spring boot and microservice architecture
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with ideas
 - 💬 Ask me about anything
