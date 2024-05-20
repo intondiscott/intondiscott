@@ -28,6 +28,7 @@
 <div align=center>
 <img src="https://github.com/intondiscott/intondiscott/assets/73749875/c01aa5f0-5d9c-424b-9ea5-bdfa3b1cb7be"/>
 </div>
+
 ---
 
 ### :fire: My Stats : <br>
