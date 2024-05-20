@@ -25,8 +25,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40" />
-<div align=center width="800px">
-<img src="https://github.com/intondiscott/intondiscott/assets/73749875/c01aa5f0-5d9c-424b-9ea5-bdfa3b1cb7be"/>
+<div align=center>
+<img src="https://github.com/intondiscott/intondiscott/assets/73749875/c01aa5f0-5d9c-424b-9ea5-bdfa3b1cb7be" width="800px"/>
 </div>
 
 ---
