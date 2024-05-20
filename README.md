@@ -27,8 +27,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40" />
 
 ---
-![helloworld](https://github.com/intondiscott/intondiscott/assets/73749875/c01aa5f0-5d9c-424b-9ea5-bdfa3b1cb7be)
-
+<div align=center>
+<img src="https://github.com/intondiscott/intondiscott/assets/73749875/c01aa5f0-5d9c-424b-9ea5-bdfa3b1cb7be"/>
+</div>
 ### :fire: My Stats : <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=intondiscott&theme=chartreuse-dark)](https://git.io/streak-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intondiscott&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats) 
