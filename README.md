@@ -1,5 +1,7 @@
-<img width="80%" height="20%" alt="Screenshot 2023-12-11 093300" src="https://github.com/intondiscott/intondiscott/assets/73749875/234eef07-6185-4201-9db3-64e5dc20228c">
+<div height="10" align=center>
+<img height=300 width=100% alt="Screenshot 2023-12-11 093301" src="https://github.com/intondiscott/intondiscott/assets/73749875/0a2ab3f3-f042-455b-9950-b945c42eea65">
 
+</div>
 
 ### Hi there, my name is Scotty 👋
 
@@ -38,7 +40,9 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=intondiscott&theme=chartreuse-dark)](https://git.io/streak-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intondiscott&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats) 
 ![Scotty's GitHub stats](https://github-readme-stats.vercel.app/api?username=intondiscott&show_icons=true&theme=chartreuse-dark)
-<img src="https://github.com/intondiscott/intondiscott/assets/73749875/07f1eac9-8d9b-4e77-b1be-2fbd1faf34dc"/>
+
+
+<img width=100% src="https://github.com/intondiscott/intondiscott/assets/73749875/07f1eac9-8d9b-4e77-b1be-2fbd1faf34dc"/>
 
   
 
