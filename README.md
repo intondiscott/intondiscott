@@ -9,6 +9,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a bodybuilder who has broken the algorithm to gains 😅. I hope to break the algorithm of learning new programming concepts.
 - :hammer_and_wrench: Languages and Tools :
+  ![helloworld](https://github.com/intondiscott/intondiscott/assets/73749875/14ee07be-8236-44a7-94f6-c3dfc8f8e35c)
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -33,6 +34,6 @@
 ![Scotty's GitHub stats](https://github-readme-stats.vercel.app/api?username=intondiscott&show_icons=true&theme=chartreuse-dark)
 <img src="https://github.com/intondiscott/intondiscott/assets/73749875/07f1eac9-8d9b-4e77-b1be-2fbd1faf34dc"/>
 
-  ![helloworld](https://github.com/intondiscott/intondiscott/assets/73749875/14ee07be-8236-44a7-94f6-c3dfc8f8e35c)
+  
 
 
