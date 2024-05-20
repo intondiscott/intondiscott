@@ -1,4 +1,4 @@
-<img width="80%" alt="Screenshot 2023-12-11 093300" src="https://github.com/intondiscott/intondiscott/assets/73749875/234eef07-6185-4201-9db3-64e5dc20228c">
+<img width="80%" height="20%" alt="Screenshot 2023-12-11 093300" src="https://github.com/intondiscott/intondiscott/assets/73749875/234eef07-6185-4201-9db3-64e5dc20228c">
 
 
 ### Hi there, my name is Scotty 👋
