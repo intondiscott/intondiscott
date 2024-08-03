@@ -1,9 +1,12 @@
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVistors&left_color=gray&right_color=green) 
+
 <div height="10" align=center>
 <img height=300 width=100% alt="Screenshot 2023-12-11 093301" src="https://github.com/intondiscott/intondiscott/assets/73749875/0a2ab3f3-f042-455b-9950-b945c42eea65">
 
 </div>
-
-### Hi there, my name is Scotty 👋
+<div align=center>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&pause=1000&color=00F706&width=435&lines=Hi+there,+my+name+is+Scotty+👋" alt="Typing SVG" /></a>
+</div>
 
 - 🔭 I’m currently working on microservices
 - 🌱 I’m currently learning spring boot and microservice architecture
