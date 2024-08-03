@@ -6,10 +6,13 @@
 </div>
 <div align=center>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&pause=1000&color=00F706&width=435&lines=Hi+there,+my+name+is+Scotty+👋" alt="Typing SVG" /></a>
+  
+ <h1>My Green Dots !😰</h1>
+ <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
 
 - 🔭 I’m currently working on microservices
-- 🌱 I’m currently learning spring boot and microservice architecture
+- 🌱 I’m currently learning Spring Boot and microservice architecture
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with ideas
 - 💬 Ask me about anything
