@@ -40,7 +40,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>
 <div align=center height="20px">
-<img src="https://github.com/intondiscott/intondiscott/assets/73749875/c01aa5f0-5d9c-424b-9ea5-bdfa3b1cb7be" />
+<img src="https://github.com/intondiscott/WT-32-SC-01-DEV/blob/master/A52D65C9-2BC4-444A-BDA4-B38BB4BD35BF.gif" />
 </div>
 
 ---
