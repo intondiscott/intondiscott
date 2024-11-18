@@ -1,7 +1,7 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVistors&left_color=gray&right_color=green) 
 
 <div height="10" align=center>
-<img height=300 width=100% alt="Screenshot 2023-12-11 093301" src="https://github.com/intondiscott/intondiscott/assets/73749875/0a2ab3f3-f042-455b-9950-b945c42eea65">
+<img height=300 width=60% alt="Screenshot 2023-12-11 093301" src="https://github.com/intondiscott/m5-core2/blob/main/assets/vlc-record-2024-11-18-11h59m10s-81A96295-C4FC-4510-B546-0601D5EFFB54.MP4-.gif">
 
 </div>
 <div align=center>
