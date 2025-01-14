@@ -2,7 +2,7 @@
 
 <div height="10" align=center>
 <img height=300 width=60% alt="Screenshot 2023-12-11 093301" src="https://github.com/intondiscott/m5-core2/blob/main/assets/vlc-record-2024-11-18-11h59m10s-81A96295-C4FC-4510-B546-0601D5EFFB54.MP4-.gif">
-
+<img height=500 width=60% src="https://github.com/intondiscott/T-Deck-DEV/blob/master/assets/IMG_4620.jpg"/>
 </div>
 <div align=center>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&pause=1000&color=00F706&width=435&lines=Hi+there,+my+name+is+Scotty+👋" alt="Typing SVG" /></a>
